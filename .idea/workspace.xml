@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90745cfd-9159-48bf-8dbc-cf91272a09a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ForImageFilterGUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helperlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/カラー画像をモノクロ化する.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/平均でぼかす.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/画像の読み込み.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/画像を保存する.py" afterDir="false" />
-    </list>
+    <list default="true" id="90745cfd-9159-48bf-8dbc-cf91272a09a3" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +48,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,12 +68,25 @@
       <option name="presentableId" value="Default" />
       <updated>1746883456265</updated>
       <workItem from="1746883457305" duration="34000" />
-      <workItem from="1746883503434" duration="10625000" />
+      <workItem from="1746883503434" duration="10983000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1746897779841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746897779841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ForImageFilterGUI$main.coverage" NAME="main のカバレッジ結果" MODIFIED="1746895500301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
